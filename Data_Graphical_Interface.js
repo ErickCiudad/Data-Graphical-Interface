@@ -18,7 +18,7 @@ function drawTitleSubtitle() {
         },
         hAxis: {
             title: 'Total Population',
-            minValue: 0,
+            minValue: 0
         },
         vAxis: {
             title: 'City'
